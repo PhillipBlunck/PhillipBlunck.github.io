@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Phillip Blunck
 
 You can use the [editor on GitHub](https://github.com/PhillipBlunck/PhillipBlunck.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
